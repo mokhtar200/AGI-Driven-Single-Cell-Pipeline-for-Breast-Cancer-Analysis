@@ -22,8 +22,4 @@
 - **Tumor/Normal Classification**: Machine learning-based epithelial state determination
 - **Differential Expression**: Adaptive thresholding for gene discovery
 
-### Visualization & Reporting
-- **Automated Plot Generation**: Quality control metrics, UMAPs, heatmaps
-- **Interactive Reports**: HTML reports with clickable visualizations
-- **Publication-Ready Figures**: High-resolution, customizable plots
 
