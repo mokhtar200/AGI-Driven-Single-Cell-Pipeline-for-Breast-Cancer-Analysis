@@ -4,20 +4,6 @@
 [![Seurat](https://img.shields.io/badge/Seurat-4.4.0-blue)](https://satijalab.org/seurat/)
 
 
-## 📖 Table of Contents
-- [Overview](#-overview)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Quick Start](#-quick-start)
-- [Input Data](#-input-data)
-- [Output Files](#-output-files)
-- [AGI Decision System](#-agi-decision-system)
-- [Advanced Usage](#-advanced-usage)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [Citation](#-citation)
-- [License](#-license)
-
 ## Overview
 
 **AGI-Driven Single-Cell Pipeline** is an intelligent, adaptive framework for analyzing single-cell RNA sequencing data with a focus on breast cancer research. Unlike traditional pipelines with fixed parameters, this system uses artificial general intelligence (AGI) principles to dynamically optimize analysis parameters at each step, resulting in more robust and biologically relevant results.
